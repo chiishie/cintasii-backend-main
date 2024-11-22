@@ -1,0 +1,6 @@
+# create role schema
+from pydantic import BaseModel
+
+class RoleCreate(BaseModel):
+    name: str
+    
