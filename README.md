@@ -71,8 +71,8 @@ src/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/chiishie/cintasii-backend.git
-   cd cintasii-backend
+   git clone https://github.com/chiishie/cintasii-backend-main.git
+   cd cintasii-backend-main
    ```
 
 2. **Set Up a Virtual Environment**:
